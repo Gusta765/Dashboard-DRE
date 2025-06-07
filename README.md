@@ -25,8 +25,8 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 ## 🎥 Demonstração
 
 ### Visão Geral do Dashboard
-![Dashboard Geral](![Captura de tela 2025-06-07 192642](https://github.com/user-attachments/assets/057446ce-16fb-4cc1-95eb-9ba5a0b23120)
-)
+![Captura de tela 2025-06-07 192642](https://github.com/user-attachments/assets/057446ce-16fb-4cc1-95eb-9ba5a0b23120
+
 
 ### Comparação Real x Orçado
 ![Real x Orçado](images/comparacao_real_orcado.png)
