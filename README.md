@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/77da3f62-3eb3-46db-a92b-e44c202b73d7)# 📊 Dashboard de DRE em Power BI
+![image](![image](https://github.com/user-attachments/assets/340e0c77-2287-461d-8540-c9f22a43fc2a)
+)# 📊 Dashboard de DRE em Power BI
 
 Este projeto consiste em um **Dashboard Interativo da Demonstração do Resultado do Exercício (DRE)** desenvolvido em Power BI. 
 
