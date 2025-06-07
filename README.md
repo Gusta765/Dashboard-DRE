@@ -25,14 +25,11 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 ## 🎥 Demonstração
 
 ### Visão Geral do Dashboard
-![Captura de tela 2025-06-07 192642](https://github.com/user-attachments/assets/057446ce-16fb-4cc1-95eb-9ba5a0b23120
+![Captura de tela 2025-06-07 192642](https://github.com/user-attachments/assets/f993ba70-cfc4-4c79-8f6a-2795647fd14e)
 
 
-### Comparação Real x Orçado
-![Real x Orçado](images/comparacao_real_orcado.png)
-
-### Análise Vertical de Despesas
-![Análise Vertical](images/analise_vertical.png)
+### Comparação Real x Orçado / Previsto ( Alterne entre orçado ou previsto na segmentação que seta aponta )
+![image](https://github.com/user-attachments/assets/15bf1fea-53b1-44a2-a53a-44aeeeb80e33)
 
 ---
 
@@ -58,9 +55,7 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 
 ## 💾 Como utilizar
 
-1. Faça o clone deste repositório ou baixe como ZIP
-2. Abra o arquivo `Dashboard_DRE.pbix` no Power BI Desktop
-3. Se desejar, substitua os dados fictícios por sua própria base
+1. Clique[https://app.powerbi.com/groups/me/reports/afed4f9c-7103-425f-881e-695e2c66659a/135b17758dc47e22d7a3?experience=power-bi] aqui para ir para o dashboard.
 
 ---
 
@@ -75,8 +70,4 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-868976236/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobarbosa7744@gmail.com)
-
----
-
-⭐ Se você curtiu este projeto, não esqueça de dar um ⭐ no repositório!
 
