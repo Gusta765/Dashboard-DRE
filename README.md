@@ -1,30 +1,34 @@
-![image](![image](https://github.com/user-attachments/assets/340e0c77-2287-461d-8540-c9f22a43fc2a)
-)# 📊 Dashboard de DRE em Power BI
+# 📊 Dashboard de DRE em Power BI — Real x Orçado
 
 Este projeto consiste em um **Dashboard Interativo da Demonstração do Resultado do Exercício (DRE)** desenvolvido em Power BI. 
 
-Tem como objetivo fornecer uma **visão rápida e inteligente sobre a saúde financeira da empresa**, facilitando a **tomada de decisões estratégicas baseadas em dados reais** com uso de um storytelling visual impactante.
+O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saúde financeira da empresa**, permitindo aos gestores:
+
+- acompanhar a execução do orçamento
+- comparar o resultado Realizado com o Previsto
+- analisar a estrutura de despesas e margem
+- tomar decisões com base em dados concretos e storytelling visual.
 
 ---
 
 ## 🚀 O que o Dashboard oferece?
 
-✅ **Análise de Receita e Lucro** ao longo do tempo  
-✅ **Comparação YoY (Year over Year)** para entender crescimento ou queda nos indicadores  
-✅ **Análise Vertical de Despesas** — percentual que cada despesa representa na Receita Total  
-✅ **KPIs financeiros essenciais** em destaque  
-✅ **Interface intuitiva** e 100% interativa  
-✅ **Storytelling visual** com insights destacados  
+✅ **Comparação Realizado x Orçado (Budget)** mês a mês e acumulado  
+✅ **Análise Vertical de Despesas** — percentual de cada despesa sobre a Receita Total  
+✅ **KPIs financeiros essenciais** (Receita, Margem, EBITDA, Lucro Líquido)  
+✅ **Visão gerencial da execução orçamentária**  
+✅ **Interface intuitiva e storytelling visual**  
+✅ **Facilidade para tomada de decisão executiva**  
 
 ---
 
 ## 🎥 Demonstração
 
 ### Visão Geral do Dashboard
-![Dashboard Geral](![image](https://github.com/user-attachments/assets/df64109a-ebf7-4493-b71a-42d9c75fb6a0))
+![Dashboard Geral](images/dashboard_geral.png)
 
-### Análise Year over Year
-![Análise YoY](images/analise_yoy.png)
+### Comparação Real x Orçado
+![Real x Orçado](images/comparacao_real_orcado.png)
 
 ### Análise Vertical de Despesas
 ![Análise Vertical](images/analise_vertical.png)
@@ -33,12 +37,21 @@ Tem como objetivo fornecer uma **visão rápida e inteligente sobre a saúde fin
 
 ## 🧠 Fundamentos e Técnicas Utilizadas
 
-- **Demonstração do Resultado do Exercício (DRE)** aplicada na prática
-- **Comparação Temporal** (Year over Year)
-- **Análise Vertical**: relação de cada item da DRE com a Receita Total
-- **KPIs Dinâmicos**
-- **Filtros e Slicers interativos**
-- **Storytelling em Business Intelligence**: a narrativa visual foi desenhada para apoiar a gestão na tomada de decisão rápida e eficaz.
+- **Demonstração do Resultado do Exercício (DRE)** aplicada na prática gerencial
+- **Orçamento Empresarial** — comparação Realizado vs Orçado para cada item de receita e despesa
+- **Análise Vertical**: percentual de cada componente da DRE sobre a Receita Total
+- **Análise de Margens** — margem bruta, operacional, líquida
+- **Storytelling em Business Intelligence** — narrativa visual para facilitar insights e tomada de decisão rápida
+
+---
+
+## 💼 Benefícios para o Negócio
+
+✅ **Monitorar aderência ao orçamento** em tempo real  
+✅ **Detectar desvios** rapidamente e agir proativamente  
+✅ **Entender estrutura de custos e despesas** com clareza  
+✅ **Apoiar o planejamento financeiro contínuo**  
+✅ **Facilitar comunicação com diretoria e conselho** por meio de visualização de dados clara e eficaz
 
 ---
 
