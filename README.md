@@ -55,7 +55,8 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 
 ## 💾 Como utilizar
 
-1. Clique[https://app.powerbi.com/groups/me/reports/afed4f9c-7103-425f-881e-695e2c66659a/135b17758dc47e22d7a3?experience=power-bi] aqui para ir para o dashboard.
+[📊 Clique aqui para visualizar o Dashboard de DRE](https://app.powerbi.com/groups/me/reports/afed4f9c-7103-425f-881e-695e2c66659a/135b17758dc47e22d7a3?experience=power-bi)
+
 
 ---
 
