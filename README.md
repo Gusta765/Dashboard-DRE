@@ -31,7 +31,10 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 ### Comparação Real x Orçado / Previsto ( Alterne entre orçado ou previsto na segmentação que seta aponta )
 ![image](https://github.com/user-attachments/assets/15bf1fea-53b1-44a2-a53a-44aeeeb80e33)
 
----
+
+### Comparação Real x Meta
+![image](https://github.com/user-attachments/assets/b61815c0-e806-4789-9615-48a7c91b6a22)
+
 
 ## 🧠 Fundamentos e Técnicas Utilizadas
 
@@ -50,6 +53,7 @@ O objetivo principal é fornecer uma **visão rápida e inteligente sobre a saú
 ✅ **Entender estrutura de custos e despesas** com clareza  
 ✅ **Apoiar o planejamento financeiro contínuo**  
 ✅ **Facilitar comunicação com diretoria e conselho** por meio de visualização de dados clara e eficaz
+✅ **Monitorar o cumprimento de metas** 
 
 ---
 
